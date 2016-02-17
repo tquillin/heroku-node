@@ -1,0 +1,24 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tquillin/heroku-node.git"
+  },
+  "author": "qt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tquillin/heroku-node/issues"
+  },
+  "homepage": "https://github.com/tquillin/heroku-node#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
